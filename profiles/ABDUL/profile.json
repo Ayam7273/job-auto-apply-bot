@@ -1,0 +1,32 @@
+{
+  "name": "ABDUL",
+  "personal": {
+    "full_name": "ABDUL NJIE",
+    "email": "njieabdulakimm@gmail.com",
+    "phone": "706-395-9218",
+    "location": "3467 Lehigh Way, Decatur, GA 30034",
+    "linkedin_url": "",
+    "portfolio_url": "",
+    "password": "RemoteJob2024!"
+  },
+  "resume_path": "profiles\\ABDUL\\resume_Abdul NJie.pdf",
+  "cover_letter_path": null,
+  "qa": [
+    {
+      "question": "Email Address",
+      "answer": "njieabdulakimm@gmail.com"
+    },
+    {
+      "question": "Email Address",
+      "answer": "njieabdulakimm@gmail.com"
+    },
+    {
+      "question": "Password",
+      "answer": "RemoteJob2024!"
+    },
+    {
+      "question": "Verify New Password",
+      "answer": "RemoteJob2024!"
+    }
+  ]
+}
